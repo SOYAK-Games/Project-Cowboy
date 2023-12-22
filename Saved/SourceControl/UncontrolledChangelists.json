@@ -13,9 +13,6 @@
 				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
 				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
-				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Input/Actions/IA_SetDestination_Touch.uasset",
-				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Input/Actions/IA_SetDestination_Click.uasset",
-				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Input/Actions/IA_Shoot.uasset",
 				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/Characters/Mannequins/Animations/Manny/PistolIdle_UE.uasset",
@@ -28,6 +25,12 @@
 				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Blueprints/BP_Projectile.uasset",
 				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Input/Actions/IA_Reload.uasset",
 				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/Ammo.uasset",
+				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Input/Actions/IA_ZoomOut.uasset",
+				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Input/Actions/IA_ZoomIn.uasset",
+				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Input/Actions/IA_ResetZoom.uasset",
+				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Input/Actions/IA_SetDestination_Touch.uasset",
+				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Input/Actions/IA_SetDestination_Click.uasset",
+				"C:/Users/kaanu/Documents/Unreal Projects/Project-Cowboy/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"C:/Users/Aykut/OneDrive/Belgeler/Unreal Projects/ProjectCowboy/ProjectCowboy/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
 			]
 		}
